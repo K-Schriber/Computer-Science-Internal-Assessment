@@ -17,8 +17,8 @@ I chose Python because it’s one of the most user-friendly programming language
 
 
 ## Success Criteria
-1. The website has a user-friendly interface that allows Dr. Ruben to upload photos and descriptions easily after each build session.
-2. The website automatically timestamps each photo and description to keep track of the specific dates and times of updates.
+1. The website has a user-friendly interface that allows Dr. Ruben to upload photos and descriptions easily after each build session. # get rid of GUI
+2. The website automatically timestamps each photo and description to keep track of the specific dates and times of updates. # Takes metadata from photo
 3. The website includes a project management feature that organizes and categorizes updates by different parts of the house or specific projects.
 4. The website allows Dr. Ruben to track the materials needed for each part of the house, including quantities and costs from amazon?
 5. The website provides a search and filter function to help Dr. Ruben quickly find specific updates or materials information by date, project, or keyword.
