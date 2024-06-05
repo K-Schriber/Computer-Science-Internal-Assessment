@@ -5,7 +5,7 @@
 
 ## Problem definition
 
-A client who is a engineer who is currently constructing a house in Japan he is interested in getting a website to track the construction of his new house. Originally he has been taking a photo after every build session then writing a paragraph about the improvements or the materials need for another part of the house, however this is starting to become burdensome and too disorganized. With having to manually add each of the  It is also difficult for Dr. Ruben to find the specfic date of the photo along and keep track of how each project within the house is going. Dr.Ruben is in need of a website that helps him track the construction and materials of his soon to be home. 
+An engineer constructing a house in Japan, seeks a solution to organize his construction progress tracking. Currently he manually documents each build session with photos and descriptions, leading to disorganization and difficulty in accessing specific information. To address this, he desires a website that automates photo uploads, prompts for descriptions, and extracts metadata for date and time tracking. Additionally, the website should offer project management tools, including categorization by house sections and project types. It should enable easy tagging and tracking of expenses, along with robust search and filter functions for quick access to updates and material information. Lastly, the client seeks a dashboard displaying construction progress visually, highlighting completed tasks, ongoing projects, and material needs.
 
 
 ## Design statement:
