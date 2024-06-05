@@ -5,7 +5,7 @@
 
 ## Problem definition
 
-Dr.Ruben is a engineer who is currently constructing a house in Japan he is interested in getting a website to track the construction of his new house. Originally he has been taking a photo after every build session then writing a paragraph about the improvements or the materials need for another part of the house, however this is starting to become burdensome and too disorganized. It is also difficult for Dr. Ruben to find the specfic date of the photo along and keep track of how each project within the house is going. Dr.Ruben is in need of a website that helps him track the construction and materials of his soon to be home. 
+A client who is a engineer who is currently constructing a house in Japan he is interested in getting a website to track the construction of his new house. Originally he has been taking a photo after every build session then writing a paragraph about the improvements or the materials need for another part of the house, however this is starting to become burdensome and too disorganized. With having to manually add each of the  It is also difficult for Dr. Ruben to find the specfic date of the photo along and keep track of how each project within the house is going. Dr.Ruben is in need of a website that helps him track the construction and materials of his soon to be home. 
 
 
 ## Design statement:
@@ -17,11 +17,13 @@ I chose Python because it’s one of the most user-friendly programming language
 
 
 ## Success Criteria
-1. The website allows user to upload photos and descriptions easily after each build session. 
-2. The website  takes Meta-Data from photo to keep track of the specific dates and times of updates that photos were taken. 
-3. The website includes a project management feature that organizes and categorizes updates by different parts of the house or specific projects.
-4. The website allows user to track the materials needed for each part of the house, including quantities.
-5. The website provides a search and filter function to quickly find specific updates or materials information by date, project, or keyword.
-6. The website includes a dashboard that visually displays the progress of the construction, highlighting completed tasks, ongoing projects, and upcoming material needs.
+1. A The website allows user to upload photos.
+1. B The website allows user to add descriptions to the photos after each build session. Prompting user if Picture doen't have comment.
+1. C The website takes Meta-Data from photo to keep track of the specific dates and times of updates that photos were taken. 
+2. A The website includes a project management feature that organizes and categorizes updates by different parts of the house or specific projects.
+2. B The webstie allows crude operations on tags for specfic projects (example Tiling, Roofing, etc)
+3. A The website tracks expenses on differant categories (example #wood, #tools, Total spending)
+4. A The website provides a search and filter function to quickly find specific updates or materials information by date, project, or keyword.
+5. A The website includes a dashboard that visually displays the progress of the construction, highlighting completed tasks, ongoing projects, and upcoming material needs.
 
 
