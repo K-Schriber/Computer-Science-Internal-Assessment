@@ -5,17 +5,22 @@
 
 ## Problem definition
 
-An competent engineer constructing a house in Japan, seeks a solution to organize his construction progress tracking. Currently he manually documents each build session with photos and descriptions, leading to disorganization and difficulty in accessing specific information. Orginally the client has been taking a photo then writing a brief description. However over time the client has just taken photos without writing descriptions planning to go back in the future and write a decription. This also makes it very difficult to find photo/reciepts for differant parts of the house. He also wants to spread his knowledge of building house with thw wourld.This has led to a overwellming number of photos without decriptions creating an unorganised system. Reciepts have also been piling up making it hard to track the total expenses for each project within the house.
+An competent engineer constructing a house in Japan, seeks a solution to organize his construction progress tracking. Currently he manually documents each build session with photos and descriptions, leading to disorganization and difficulty in accessing specific information. Orginally the client has been taking a photo then writing a brief description. However over time the client has just taken photos without writing descriptions planning to go back in the future and write a decription. This also makes it very difficult to find photo/reciepts for differant parts of the house. This has led to a overwellming number of photos without decriptions creating an unorganised system. Reciepts have also been piling up making it hard to track the total expenses for each project within the house.
+
+
+
+** Maybe :He also wants to spread his knowledge of building house with thw wourld. Comment System
+
+## Design statement:
+I will design a website for a client who is trying to track construction of his house. The website is constructed using the software pyhton/flask. It will be evaluated according to the criteria (please check succes critera below).
+
+## Rationale for Proposed Solution
 
 To address this, he desires a system that automates photo uploads, prompts for descriptions, and extracts metadata for date and time tracking. Additionally, the website should offer project management tools, including categorization by house sections and project types. It should enable easy tagging and tracking of expenses, along with robust search and filter functions for quick access to updates and material information. Lastly, the client seeks a dashboard displaying construction progress visually, highlighting completed tasks, ongoing projects, and material needs.
 
-
-
-## Design statement:
-I will to design website for a client who is trying to track construction of his house. The website is constructed using the software pyhton/flask. It will be evaluated according to the criteria (please check succes critera below).
-
-## Rationale for Proposed Solution
 I chose Python because it’s one of the most user-friendly programming languages that is quickly growing globally. [1] According to Linked In, python is easy to understand because of its simple English syntax that allows the programmer to create programs easily.[2] Python also has access to numerous libraries that allow developers to program more efficiently. These libraries provide an API (application programming interface) which makes it easy for developers to use them with their own software programs.[3] Furthermore, Pythons is versatile language that can be used for web development, software development, scientific computing, data analysis, artificial intelligence, and more.[4] Thats why I believe Python will be able to solve all of my client's problems and let her have a functioning crypto wallet.
+
+I chose to use flask because it is a micro web framework that is written in Python. Specfically, flask offers more flexibility and freedom to developers, allowing them to choose and integrate specific libraries and components as needed[^9]. Flask's design also supports the creation of test cases, ensuring that the application remains robust and error-free as it evolves.
 
 
 
