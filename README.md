@@ -34,6 +34,12 @@ I chose to use flask because it is a micro web framework that is written in Pyth
 4. A The website provides a search and filter function to quickly find specific updates or materials information by date, project, or keyword.
 5. A The website includes a dashboard that visually displays the progress of the construction, highlighting completed tasks, ongoing projects, and upcoming material needs.
 
+
+
+
+
+# Criteria B: Planning
+
 ## Sources Cited
 1. What is python used for? A beginner’s guide. Coursera. (n.d.). https://www.coursera.org/articles/what-is-python-used-for-a-beginners-guide-to-using-python 
 2. Ahmed, M. (n.d.). Why is python so easy to learn?. LinkedIn. https://www.linkedin.com/pulse/why-python-so-easy-learn-maqsood-ahmed 
