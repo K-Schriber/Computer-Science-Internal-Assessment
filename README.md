@@ -5,7 +5,7 @@
 
 ## Problem definition
 
-An competent engineer constructing a house in Japan, seeks a solution to organize his construction progress tracking. Currently he manually documents each build session with photos and descriptions, leading to disorganization and difficulty in accessing specific information. Orginally the client has been taking a photo then writing a brief description. However over time the client has just taken photos without writing descriptions planning to go back in the future and write a decription. This also makes it very difficult to find photo/reciepts for differant parts of the house. This has led to a overwellming number of photos without decriptions creating an unorganised system. Reciepts have also been piling up making it hard to track the total expenses for each project within the house.
+An competent engineer constructing a house in Japan, seeks a solution to organize his construction progress tracking. Currently he manually documents each build session in a spreadsheet with photos and descriptions, leading to disorganization and difficulty in accessing specific information. Orginally the client has been taking a photo then writing a brief description. However over time the client has just taken photos without writing descriptions planning to go back in the future and write a decription. This also makes it very difficult to find photo/reciepts for differant parts of the house. This has led to a overwellming number of photos without decriptions creating an unorganised system. Reciepts have also been piling up making it hard to track the total expenses for each project within the house. Addd in appendix about meeting.
 
 
 
