@@ -40,6 +40,16 @@ I chose to use flask because it is a micro web framework that is written in Pyth
 
 # Criteria B: Planning
 
+## Design Overview 
+
+
+<img width="571" alt="Screenshot 2024-08-23 at 9 56 05 AM" src="https://github.com/user-attachments/assets/92584afe-3091-4a3f-9d09-ad0715fb997c">
+
+Figure 1 System Diagram
+
+<img width="649" alt="Screenshot 2024-08-23 at 9 52 53 AM" src="https://github.com/user-attachments/assets/cf091ac1-e918-4c35-82a9-a1088e718af9">
+
+Figure 2 WireFrame diagram for Constuction App
 
 Test Plan
 
