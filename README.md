@@ -1,4 +1,3 @@
-<img width="431" alt="Screenshot 2024-08-23 at 2 48 06 PM" src="https://github.com/user-attachments/assets/7b563a58-e5b5-4d77-a428-402a6fd79397"># Computer-Science-Internal-Assessment
 
 
 # Criteria A: Planning
