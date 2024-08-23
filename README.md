@@ -81,7 +81,25 @@ Test Plan
 | Evaluate code quality                   | Non-functional | N/A                                                                                                                                                                                                     | The code should be well-commented, with clear and descriptive variable and method names, facilitating easy understanding and maintenance.                                                      | This test assesses the maintainability and readability of the code, which includes checking for coding standards, proper documentation, and naming conventions. |
 | Check integrity of Users database table | Non-functional | Perform a series of data entry operations on the application. Such as creation of New Project, Photos, comments, and ETC.                                                                               | The Users database table should accurately reflect all the data entered through the application without any loss                                                                               | This test checks the database operations and that all data is correctly put into the table.                                                                     |
 
-End User Testing
+
+
+
+
+| Task No | Planned Action                                        | Planned Outcome                                                                          | Design cycle | Time Estimate      | Completion date | Criterion |
+|---------|-------------------------------------------------------|------------------------------------------------------------------------------------------|--------------|--------------------|-----------------|-----------|
+| 1       | First interview with client                           | To understand client problem and requirements                                            | Planning     | 45 minutes         | June 1          | A         |
+| 2       | Write down success criteria                           | To list down the first success criteria                                                  | Planning     | 60 minutes         | June 2          | A         |
+| 3       | Write problem definition                              | Relisten to meeting and then write problem definition                                    | Planning     | 1 hour             | June 3          | A         |
+| 4       | Finalise success criteria                             | Prepare a satisfactory criteria to present to client                                     | Planning     | 20 minutes         | June 3          | A         |
+| 5       | Meet with the client to discuss the success criteria. | Receive final approval to start creating the application or any changes                  | Planning     | 20 minutes         | June 6          | A         |
+| 6       | Review Changes and update success CRIT                | Reschedule Meeting to make sure clients needs are met                                    | Planning     | 30 minutes         | June 7          | A         |
+| 7       | Create system diagram                                 | Develop a clear idea of the hardware and software requirements for the proposed solution | Planning     | 30 minutes         | Aug 19          | B         |
+| 8       | Create ER diagram                                     | Create an ER diagram that illustrates the tables used and how they interact              | Design       | 30 Minutes         | Aug 20          | B         |
+| 9       | Wire Frame Diagram                                    | Created the predicted Graphic User interface Vision for the application                  | Design       | 30 Minutes         | Aug 21          | B         |
+| 10      | Complete Login/Registration Page                      | Create a function Login/Registration Page that has HTML templates                        | Design       | 40 min             | Aug 21          | B         |
+| 11      | Produce Flow diagrams including descriptions          | Flow diagrams that explain a code functions                                              | Design       | 2 and a half hours | Aug 22          | B         |
+|         |                                                       |                                                                                          |              |                    |                 |           |
+|         |                                                       |                                                                                          |              |                    |                 |           |
 
 
 
