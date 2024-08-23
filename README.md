@@ -51,6 +51,19 @@ Figure 1 System Diagram
 
 Figure 2 WireFrame diagram for Constuction App
 
+
+<img width="558" alt="Screenshot 2024-08-23 at 10 35 49 AM" src="https://github.com/user-attachments/assets/a5ca8371-45a1-4c10-a124-e23b614e8673">
+
+
+Figure 3 ER Diagram of the construction Application. This diagram depicts the database structure used to store the phots, projects, comments, and users of the application. It also shows the relations ships between simliar tables variables.
+
+<img width="452" alt="Screenshot 2024-08-23 at 10 32 56 AM" src="https://github.com/user-attachments/assets/592f8656-3ab5-415b-8e3b-9e6f9e257ceb">
+
+
+Figure 4 Login Flow Chart
+
+Figure 5
+
 Test Plan
 
 | Description                             | Type           | Inputs                                                                                                                                                                                                  | Outputs                                                                                                                                                                                        | Details                                                                                                                                                         |
