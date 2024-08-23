@@ -1,4 +1,4 @@
-# Computer-Science-Internal-Assessment
+<img width="431" alt="Screenshot 2024-08-23 at 2 48 06 PM" src="https://github.com/user-attachments/assets/7b563a58-e5b5-4d77-a428-402a6fd79397"># Computer-Science-Internal-Assessment
 
 
 # Criteria A: Planning
@@ -60,9 +60,17 @@ Figure 3 ER Diagram of the construction Application. This diagram depicts the da
 <img width="452" alt="Screenshot 2024-08-23 at 10 32 56 AM" src="https://github.com/user-attachments/assets/592f8656-3ab5-415b-8e3b-9e6f9e257ceb">
 
 
-Figure 4 Login Flow Chart
+Figure 4 Login Flow Chart; Flow chart shows the process for USer to login
 
-Figure 5
+<img width="431" alt="Screenshot 2024-08-23 at 2 48 06 PM" src="https://github.com/user-attachments/assets/d616f00f-9bc4-42cb-83c8-afa693dd0dcb">
+
+
+Figure 5 EXIF Image data Flow Chart: Shows the process of how the Photo Metadata is extract
+
+
+<img width="252" alt="Screenshot 2024-08-23 at 3 38 26 PM" src="https://github.com/user-attachments/assets/214b63cd-4e76-45d2-9bc7-09e485c9b7ca">
+
+Figure 6 Project Editing Flow Chart: Shows the proccess of editing projects including changing names and tags
 
 Test Plan
 
