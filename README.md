@@ -23,7 +23,7 @@ I chose to use flask because it is a micro web framework that is written in Pyth
 
 
 
-## Success Criteria
+## Success Criteria Proof of Meeting Appendix: 1
 1. A The website allows user to upload photos.
 1. B The website allows user to add descriptions to the photos after each build session. Prompting user if Picture doen't have comment.
 1. C The website takes Meta-Data from photo to keep track of the specific dates and times of updates that photos were taken. 
@@ -91,7 +91,7 @@ End User Testing
 
 # Criteria D: Appendix
 
-1. Audio File From Orginal Meeting
+1. Audio File From Orginal Meeting With client : https://drive.google.com/file/d/14s_D84gPGZhhtRZJzvpFrEU4pIIoE1hL/view?usp=sharing
 
 
 ## Sources Cited
