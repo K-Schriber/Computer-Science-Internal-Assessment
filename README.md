@@ -25,7 +25,7 @@ Furthermore, I propose using a database to manage the construction application. 
 
 ## Success Criteria Proof of Meeting Appendix: 1
 1. A The website allows user to upload photos.
-1. B The website allows user to add descriptions to the photos after each build session. Prompting user if Picture doen't have comment.
+1. B The website allows user to add descriptions to the photos after each build session and anytime after. Prompting user if Picture doen't have comment.
 1. C The website takes Meta-Data from photo to keep track of the specific dates and times of updates that photos were taken. 
 2. A The website includes a project management feature that organizes and categorizes updates by different parts of the house or specific projects.
 2. B The webstie allows crude operations on tags for specfic projects (example Tiling, Roofing, etc)
