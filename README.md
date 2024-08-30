@@ -1,25 +1,25 @@
+A competent engineer constructing a house in Japan seeks a solution to organize his construction progress tracking. Currently, he manually documents each build session in a spreadsheet with photos and descriptions, which leads to disorganization and difficulty in accessing specific information. Originally, the client has been taking a picture and then writing a brief description. However, over time, the client has just taken photos without writing descriptions and is planning to go back in the future and write a description. This also makes it very difficult to find photos/receipts for different parts of the house. This has led to an overwhelming number of photos without descriptions, creating an unorganized system. Receipts have also been piling up, making it hard to track the total expenses for each project within the house. An in the appendix about the meeting.
 
 
-# Criteria A: Planning
+# Rationale for Proposed Solution
 
-## Problem definition
-
-An competent engineer constructing a house in Japan, seeks a solution to organize his construction progress tracking. Currently he manually documents each build session in a spreadsheet with photos and descriptions, leading to disorganization and difficulty in accessing specific information. Orginally the client has been taking a photo then writing a brief description. However over time the client has just taken photos without writing descriptions planning to go back in the future and write a decription. This also makes it very difficult to find photo/reciepts for differant parts of the house. This has led to a overwellming number of photos without decriptions creating an unorganised system. Reciepts have also been piling up making it hard to track the total expenses for each project within the house. Addd in appendix about meeting.
+To address this, I proposed a system that automates photo uploads, prompts for descriptions, and extracts metadata for date and time tracking. Additionally, the website should offer project management tools, including categorization by house sections and project types. It should enable easy tagging and tracking of expenses, along with robust search and filter functions for quick access to updates and material information. Lastly, the client seeks a dashboard displaying construction progress visually, highlighting completed tasks, ongoing projects, and material needs.
 
 
 
-** Maybe :He also wants to spread his knowledge of building house with thw wourld. Comment System
+I propose using Python over other programming languages for three key reasons. Firstly, Python is a highly influential language with versatile libraries and frameworks to cater to various needs. Meaning that no matter the project, python will have a library suitable to create your dream[1]. Next, due to Python’s high-level nature and extensive libraries that allow for the development of features quickly. This means that prototypes can be developed faster ensuring that the product meets the client's needs [2]. Finally, python is extremely flexible as it integrates well with other systems and technologies[2]. This can be helpful in future large-scale projects, or if you want to develop the application further. 
 
-## Design statement:
-I will design a website for a client who is trying to track construction of his house. The website is constructed using the software pyhton/flask. It will be evaluated according to the criteria (please check succes critera below).
+Additionally, I propose using Flask, a web development framework, instead of other web frameworks for its clear navigation and customizable user experience. Flask’s straightforward framework allows for an application with a clear and user-friendly navigation system, ensuring that customers can easily interact with the application[3]. The flexible structure of Flask allows for easy implementation of customized features, creating an engaging experience for the user[4]. Features such as distinctive design or unique functionalities allow for an application that precisely matches the customer's preferences. 
 
-## Rationale for Proposed Solution
+Furthermore, I propose using a database to manage the construction application. Databases offer robust security features to protect sensitive information, ensuring that no unauthorized users can access your data [5]. As you continue to add to your projects, so will the amount of data. Databases are designed to handle large amounts of data effectively, which is why they are perfect for this application [5].
 
-To address this, he desires a system that automates photo uploads, prompts for descriptions, and extracts metadata for date and time tracking. Additionally, the website should offer project management tools, including categorization by house sections and project types. It should enable easy tagging and tracking of expenses, along with robust search and filter functions for quick access to updates and material information. Lastly, the client seeks a dashboard displaying construction progress visually, highlighting completed tasks, ongoing projects, and material needs.
 
-I chose Python because it’s one of the most user-friendly programming languages that is quickly growing globally. [1] According to Linked In, python is easy to understand because of its simple English syntax that allows the programmer to create programs easily.[2] Python also has access to numerous libraries that allow developers to program more efficiently. These libraries provide an API (application programming interface) which makes it easy for developers to use them with their own software programs.[3] Furthermore, Pythons is versatile language that can be used for web development, software development, scientific computing, data analysis, artificial intelligence, and more.[4] Thats why I believe Python will be able to solve all of my client's problems and let her have a functioning crypto wallet.
 
-I chose to use flask because it is a micro web framework that is written in Python. Specfically, flask offers more flexibility and freedom to developers, allowing them to choose and integrate specific libraries and components as needed[^9]. Flask's design also supports the creation of test cases, ensuring that the application remains robust and error-free as it evolves.
+
+
+
+
+
 
 
 
@@ -113,13 +113,13 @@ Test Plan
 
 
 ## Sources Cited
-1. What is python used for? A beginner’s guide. Coursera. (n.d.). https://www.coursera.org/articles/what-is-python-used-for-a-beginners-guide-to-using-python 
-2. Ahmed, M. (n.d.). Why is python so easy to learn?. LinkedIn. https://www.linkedin.com/pulse/why-python-so-easy-learn-maqsood-ahmed 
-3. GoPract.com. (n.d.). The importance of libraries in Python, Data Science, and the applications they facilitate. GoPract. https://gopract.com/Pages/Importance-of-Libraries-Python-data-science-Applications-They-Facilitate.aspx#:~:text=Python%20libraries%20are%20pre%2Dwritten,data%20analysis%20and%20machine%20learning. 
-4. Worsley, S. (2022, March 7). What is python? - the most versatile programming language. DataCamp. https://www.datacamp.com/blog/all-about-python-the-most-versatile-programming-language 
-5. Tele, C. (n.d.). What is ethereum and how does it work?. Cointelegraph. https://cointelegraph.com/learn/what-is-ethereum-a-beginners-guide-to-eth-cryptocurrency 
-6. Hayes, A. (n.d.). Blockchain facts: What is it, how it works, and how it can be used. Investopedia. https://www.investopedia.com/terms/b/blockchain.asp 
-7. Golubev, S. (n.d.). The expansion of Decentralized Finance (DEFI) on the Ethereum Network. LinkedIn. https://www.linkedin.com/pulse/expansion-decentralized-finance-defi-ethereum-network-sergey-golubev 
-8. CoinMarketCAP. (n.d.). Ethereum Price Today, ETH to USD live price, marketcap and Chart. CoinMarketCap. https://coinmarketcap.com/currencies/ethereum/ 
+1. Gupta, A. (2024). Top 10 reason why you should learn python in 2023. Retrieved from https://www.simplilearn.com/tutorials/python-tutorial/why-learn-python 
+2. Learn enough to be dangerous. (n.d.). Retrieved from https://www.learnenough.com/blog/10-Companies-Using-Python-In-2023-&-Why-It’s-Their-Go-To#:~:text=Python%20has%20grown%20in%20favor,a%20basic%20knowledge%20of%20coding. 
+3. 6 reasons why flask is better framework for web application development. (n.d.). Retrieved from https://able.bio/hardikshah/6-reasons-why-flask-is-better-framework-for-web-application-development--cd398f73 
+4. Mahalias, I. (2024). Why should you use flask: 7 reasons. Retrieved from https://www.planeks.net/why-use-flask/
+5. Programming Foundations: Databases Online Class: LinkedIn Learning, formerly Lynda.com. (n.d.). Retrieved from https://www.linkedin.com/learning/programming-foundations-databases-2 
+7. Hayes, A. (n.d.). Blockchain facts: What is it, how it works, and how it can be used. Investopedia. https://www.investopedia.com/terms/b/blockchain.asp 
+8. Golubev, S. (n.d.). The expansion of Decentralized Finance (DEFI) on the Ethereum Network. LinkedIn. https://www.linkedin.com/pulse/expansion-decentralized-finance-defi-ethereum-network-sergey-golubev 
+9. CoinMarketCAP. (n.d.). Ethereum Price Today, ETH to USD live price, marketcap and Chart. CoinMarketCap. https://coinmarketcap.com/currencies/ethereum/ 
 
 
