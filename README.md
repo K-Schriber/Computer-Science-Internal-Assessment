@@ -13,7 +13,7 @@ I propose using Python over other programming languages, such as Node and Nest, 
 
 
 
-## Success Criteria Proof of Meeting Appendix: 1
+## Success Criteria
 1. A The website allows users to upload photos. (Issue Tackled: Photo management and documentation)
 
 2. B The website allows users to add descriptions to the photos after each build session and anytime thereafter, prompting the user if a photo doesn't have a comment. (Issue Tackled: Ensuring descriptive metadata and improving photo context)
