@@ -14,15 +14,21 @@ I propose using Python over other programming languages, such as Node and Nest, 
 
 
 ## Success Criteria Proof of Meeting Appendix: 1
-1. A The website allows user to upload photos.
-1. B The website allows user to add descriptions to the photos after each build session and anytime after. Prompting user if Picture doen't have comment.
-1. C The website takes Meta-Data from photo to keep track of the specific dates and times of updates that photos were taken. 
-2. A The website includes a project management feature that organizes and categorizes updates by different parts of the house or specific projects.
-2. B The webstie allows crude operations on tags for specfic projects (example Tiling, Roofing, etc)
-3. A The website tracks expenses on differant categories (example #wood, #tools, Total spending)
-4. A The website provides a search and filter function to quickly find specific updates or materials information by date, project, or keyword.
-5. A The website includes a dashboard that visually displays the progress of the construction, highlighting completed tasks, ongoing projects, and upcoming material needs.
+1. A The website allows users to upload photos. (Issue Tackled: Photo management and documentation)
 
+2. B The website allows users to add descriptions to the photos after each build session and anytime thereafter, prompting the user if a photo doesn't have a comment. (Issue Tackled: Ensuring descriptive metadata and improving photo context)
+
+3. C The website extracts meta-data from photos to keep track of specific dates and times when photos were taken. (Issue Tackled: Automatic tracking of photo timestamps)
+
+4. A The website includes a project management feature that organizes and categorizes updates by different parts of the house or specific projects. (Issue Tackled: Project organization and categorization)
+
+5. B The website allows basic operations on tags for specific projects (e.g., Tiling, Roofing). (Issue Tackled: Tag management for project specifics)
+
+6. A The website tracks expenses across different categories (e.g., #wood, #tools, Total spending). (Issue Tackled: Expense tracking and categorization)
+
+7. A The website provides a search and filter function to quickly find specific updates or material information by date, project, or keyword. (Issue Tackled: Efficient information retrieval)
+
+8. A The website includes a dashboard that visually displays the progress of the construction, highlighting completed tasks, ongoing projects, and upcoming material needs. (Issue Tackled: Visualization of project progress and task management)
 
 
 
