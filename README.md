@@ -5,17 +5,7 @@ A competent engineer constructing a house in Japan seeks a solution to organize 
 
 To address this, I proposed a system that automates photo uploads, prompts for descriptions, and extracts metadata for date and time tracking. Additionally, the website should offer project management tools, including categorization by house sections and project types. It should enable easy tagging and tracking of expenses, along with robust search and filter functions for quick access to updates and material information. Lastly, the client seeks a dashboard displaying construction progress visually, highlighting completed tasks, ongoing projects, and material needs.
 
-
-
-I propose using Python over other programming languages for three key reasons. Firstly, Python is a highly influential language with versatile libraries and frameworks to cater to various needs. Meaning that no matter the project, python will have a library suitable to create your dream [1]. Next, due to Python’s high-level nature and extensive libraries that allow for the development of features quickly. This means that prototypes can be developed faster ensuring that the product meets the client's needs [2]. Finally, python is extremely flexible as it integrates well with other systems and technologies[2]. This can be helpful in future large-scale projects, or if you want to develop the application further. 
-
-Additionally, I propose using Flask, a web development framework, instead of other web frameworks for its clear navigation and customizable user experience. Flask’s straightforward framework allows for an application with a clear and user-friendly navigation system, ensuring that customers can easily interact with the application[3]. The flexible structure of Flask allows for easy implementation of customized features, creating an engaging experience for the user[4]. Features such as distinctive design or unique functionalities allow for an application that precisely matches the customer's preferences. 
-
-Furthermore, I propose using a database to manage the construction application. Databases offer robust security features to protect sensitive information, ensuring that no unauthorized users can access your data [5]. As you continue to add to your projects, so will the amount of data. Databases are designed to handle large amounts of data effectively, which is why they are perfect for this application [5].
-
-
-
-
+I propose using Python over other programming languages, such as Node and Nest, because Python is run on an external server instead of being downloaded from the Internet and then run on your computer (aka client-side software). Using Python prevents client-side attackers from injecting malicious code into the system and allows the application to run on a third-party server. I propose using Flask for the HTML framework because it works exceptionally well for small-scale applications and is completely customizable and flexible, unlike Fast API or Django, which have only one standard way to customize the application. I propose using an SQL database, specifically MySQL, due to its flexibility and easy migration to other SQL databases. In contrast, NoSQL databases can be more complex and challenging to transfer between systems. MySQL, being a widely used relational database management system, also offers the advantage of server-based deployment, which is preferable to running the database on the client’s machine.
 
 
 
