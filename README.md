@@ -69,6 +69,7 @@ Figure 6 Project Editing Flow Chart: Shows the proccess of editing projects incl
 
 Test Plan
 
+
 | Description                      | Type       | Inputs                               | Outputs                          | Details                                                                              | Test                                                                                                     |
 |----------------------------------|------------|--------------------------------------|----------------------------------|--------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
 | User Uploads Photos              | Functional | Photo file                           | Success/Failure message          | Test different photo formats and sizes for upload                                    | Upload various photo formats (JPEG, PNG, etc.) and check for successful upload or error messages.        |
@@ -79,6 +80,8 @@ Test Plan
 | Expense Tracking                 | Functional | Expense data (e.g., wood, tools)     | Expense summary by category      | Check if expenses are tracked and categorized correctly                              | Enter different expenses and verify if they are tracked and categorized accurately in the summary.       |
 | Search and Filter Function       | Functional | Search keywords, Filter criteria     | Search results, Filtered data    | Ensure the search and filter functions return accurate results                       | Perform searches and apply filters to find specific updates or materials and check for accurate results. |
 | Dashboard Progress Visualization | Functional | Project data (tasks, materials)      | Visual progress display          | Verify if the dashboard accurately reflects project status and upcoming needs        | Check if the dashboard correctly shows completed tasks, ongoing projects, and material needs.            |
+
+
 
 
 
