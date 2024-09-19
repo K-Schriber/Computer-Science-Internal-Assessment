@@ -47,7 +47,8 @@ Figure 1 System Diagram
 Figure 2 WireFrame diagram for Constuction App showcasing all the success criteria. 
 
 
-<img width="558" alt="Screenshot 2024-08-23 at 10 35 49 AM" src="https://github.com/user-attachments/assets/a5ca8371-45a1-4c10-a124-e23b614e8673">
+<img width="347" alt="Screenshot 2024-09-20 at 12 26 59 AM" src="https://github.com/user-attachments/assets/4f9b0e52-2eb2-41e8-b24a-67389784d76c">
+
 
 
 Figure 3 ER Diagram of the construction Application. This diagram depicts the database structure used to store the phots, projects, comments, and users of the application. It also shows the relations ships between simliar tables variables.
