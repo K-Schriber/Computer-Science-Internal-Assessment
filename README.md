@@ -52,18 +52,21 @@ Figure 2 WireFrame diagram for Constuction App
 
 Figure 3 ER Diagram of the construction Application. This diagram depicts the database structure used to store the phots, projects, comments, and users of the application. It also shows the relations ships between simliar tables variables.
 
-<img width="452" alt="Screenshot 2024-08-23 at 10 32 56 AM" src="https://github.com/user-attachments/assets/592f8656-3ab5-415b-8e3b-9e6f9e257ceb">
+<img width="299" alt="Screenshot 2024-09-19 at 11 01 58 PM" src="https://github.com/user-attachments/assets/af765b36-244e-45cf-8cc6-15cb87099c41">
+
 
 
 Figure 4 Login Flow Chart; Flow chart shows the process for USer to login
 
-<img width="431" alt="Screenshot 2024-08-23 at 2 48 06 PM" src="https://github.com/user-attachments/assets/d616f00f-9bc4-42cb-83c8-afa693dd0dcb">
+<img width="290" alt="Screenshot 2024-09-19 at 11 02 07 PM" src="https://github.com/user-attachments/assets/0e646a33-4306-46f4-9802-f3fb9f90060e">
+
 
 
 Figure 5 EXIF Image data Flow Chart: Shows the process of how the Photo Metadata is extract
 
 
-<img width="252" alt="Screenshot 2024-08-23 at 3 38 26 PM" src="https://github.com/user-attachments/assets/214b63cd-4e76-45d2-9bc7-09e485c9b7ca">
+<img width="290" alt="Screenshot 2024-09-19 at 11 02 07 PM" src="https://github.com/user-attachments/assets/f8b1a562-7f91-4c42-96e1-9116b6387078">
+
 
 Figure 6 Project Editing Flow Chart: Shows the proccess of editing projects including changing names and tags
 
