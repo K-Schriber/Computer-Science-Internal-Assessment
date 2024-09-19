@@ -396,10 +396,27 @@ Figure (19)
 
 
 
-
-# Criteria D: Appendix
-
-1. Audio File From Orginal Meeting With client : https://drive.google.com/file/d/14s_D84gPGZhhtRZJzvpFrEU4pIIoE1hL/view?usp=sharing
+| Task No | Planned Action                                                   | Planned Outcome                                                                               | Design cycle | Time Estimate | Completion date | Criterion |
+|---------|------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|--------------|---------------|-----------------|-----------|
+| 1       | Conduct first interview with client (Planning)                   | To understand client problem and requirements                                                 | Planning     | 45 minutes    | June 1          | A         |
+| 2       | Write down success criteria (Planning)                           | To list down the first success criteria                                                       | Planning     | 60 minutes    | June 2          | A         |
+| 3       | Write problem definition (Planning)                              | Relisten to meeting and then write problem definition                                         | Planning     | 1 hour        | June 3          | A         |
+| 4       | Finalize success criteria (Planning)                             | Prepare a satisfactory criteria to present to client                                          | Planning     | 20 minutes    | June 3          | A         |
+| 5       | Meet with client to discuss success criteria (Planning)          | Receive final approval to start creating the application or any changes                       | Planning     | 20 minutes    | June 6          | A         |
+| 6       | Review changes and update success criteria (Planning)            | Reschedule meeting to ensure clients' needs are met                                           | Planning     | 30 minutes    | June 7          | A         |
+| 7       | Create system diagram (Planning)                                 | Develop a clear idea of the hardware and software requirements for the proposed solution      | Planning     | 30 minutes    | Aug 19          | B         |
+| 8       | Create ER diagram (Design)                                       | Create an ER diagram that illustrates the tables used and how they interact                   | Design       | 30 minutes    | Aug 20          | B         |
+| 9       | Create wireframe diagram (Design)                                | Create the predicted Graphic User Interface vision for the application                        | Design       | 30 minutes    | Aug 21          | B         |
+| 10      | Complete Login/Registration page (Design)                        | Create a functional login/registration page with HTML templates                               | Design       | 40 minutes    | Aug 21          | B         |
+| 11      | Produce flow diagrams including descriptions (Design)            | Create flow diagrams that explain code functions                                              | Design       | 2.5 hours     | Aug 22          | B         |
+| 12      | Develop photo upload functionality (Development)                 | Implement a feature where users can upload photos and store them in the database              | Development  | 1 hour        | Aug 23          | A         |
+| 13      | Add description prompt for photos (Development)                  | Ensure the system prompts users to add descriptions to their uploaded photos                  | Development  | 45 minutes    | Aug 24          | B         |
+| 14      | Implement metadata extraction for photos (Development)           | Automate extraction of photo metadata like timestamps during the upload process               | Development  | 1 hour        | Aug 25          | C         |
+| 15      | Create project management feature (Development)                  | Implement a feature that categorizes updates by house parts or project type                   | Development  | 2 hours       | Aug 26          | A         |
+| 16      | Implement CRUD operations for project components (Development)   | Add functionality to create, read, update, and delete tags, projects, and photos              | Development  | 3 hours       | Aug 27          | B         |
+| 17      | Expense tracking functionality (Development)                     | Implement a feature to track and categorize expenses for materials and tools                  | Development  | 2 hours       | Aug 28          | A         |
+| 18      | Develop search and filter functionality (Development)            | Create a search feature to find updates or materials by date, project, or keyword             | Development  | 1 hour        | Aug 29          | A         |
+| 19      | Build dashboard for project progress visualization (Development) | Create a dashboard to display construction progress, highlighting completed and ongoing tasks | Development  | 3 hours       | Aug 30          | A         |
 
 
 ## Sources Cited
