@@ -44,7 +44,7 @@ Figure 1 System Diagram
 
 <img width="649" alt="Screenshot 2024-08-23 at 9 52 53 AM" src="https://github.com/user-attachments/assets/cf091ac1-e918-4c35-82a9-a1088e718af9">
 
-Figure 2 WireFrame diagram for Constuction App
+Figure 2 WireFrame diagram for Constuction App showcasing all the success criteria. 
 
 
 <img width="558" alt="Screenshot 2024-08-23 at 10 35 49 AM" src="https://github.com/user-attachments/assets/a5ca8371-45a1-4c10-a124-e23b614e8673">
