@@ -52,7 +52,7 @@ Figure 2 WireFrame diagram for Constuction App showcasing all the success criter
 
 
 
-Figure 3 ER Diagram of the construction Application. This diagram depicts the database structure used to store the phots, projects, comments, and users of the application. It also shows the relationsships between tables.A 1-to-1 relationship exists between build_session and photo, where each build session can have one photo. 1-to-many relationships include a project having multiple tasks and build_sessions, and each build_session having multiple build_session_costs. There are also many-to-many relationships, such as between project and tag through the project_tags table, where a project can have many tags, and a tag can belong to many projects. This structure allows flexible project management and cost tracking.
+Figure 3 ER Diagram of the construction Application. This diagram depicts the database structure used to store the phots, projects, comments, and users of the application. It also shows the relationsships between tables.A 1-to-1 relationship exists between build_session and photo, where each build session can have one photo. 1-to-many relationships include a project having multiple tasks and build_sessions, and each build_session having multiple build_session_costs. There are also many-to-many relationships, such as between project and tag through the project_tags table, where a project can have many tags and a tag can belong to many projects. 
 
 
 <img width="1192" alt="Screenshot 2024-09-23 at 11 00 52 AM" src="https://github.com/user-attachments/assets/b35387c9-09f9-4e58-a601-160f747329c6">
