@@ -38,7 +38,7 @@ I propose using Python over other programming languages, such as Node and Nest, 
 ## Design Overview 
 
 
-<img width="571" alt="Screenshot 2024-08-23 at 9 56 05 AM" src="https://github.com/user-attachments/assets/92584afe-3091-4a3f-9d09-ad0715fb997c">
+
 
 Figure 1 System Diagram
 
@@ -52,26 +52,32 @@ Figure 2 WireFrame diagram for Constuction App showcasing all the success criter
 
 
 
-Figure 3 ER Diagram of the construction Application. This diagram depicts the database structure used to store the phots, projects, comments, and users of the application. It also shows the relations ships between simliar tables variables.
+Figure 3 ER Diagram of the construction Application. This diagram depicts the database structure used to store the phots, projects, comments, and users of the application. It also shows the relations ships between simliar tables variables. 
+
+
+<img width="1192" alt="Screenshot 2024-09-23 at 11 00 52 AM" src="https://github.com/user-attachments/assets/b35387c9-09f9-4e58-a601-160f747329c6">
+
+
+Figure 4: An example of the table photos. This includes ID, project_id, filename,description, upload_date, and date_taken.
 
 
 <img width="450" alt="Screenshot 2024-09-23 at 10 47 36 AM" src="https://github.com/user-attachments/assets/5a227abc-06c8-423b-8a7b-ed5db2a568cc">
 
 
 
-Figure 4 Login Flow Chart; Flow chart shows the process for USer to login
+Figure 5 Login Flow Chart; Flow chart shows the process for USer to login
 
-<img width="290" alt="Screenshot 2024-09-19 at 11 02 07 PM" src="https://github.com/user-attachments/assets/0e646a33-4306-46f4-9802-f3fb9f90060e">
+<img width="269" alt="Screenshot 2024-09-23 at 10 54 48 AM" src="https://github.com/user-attachments/assets/3ba52da4-ddc0-495a-8b48-ec9ce6afc9a1">
 
 
 
-Figure 5 EXIF Image data Flow Chart: Shows the process of how the Photo Metadata is extract
+Figure 6 EXIF Image data Flow Chart: Shows the process of how the Photo Metadata is extract
 
 
 <img width="290" alt="Screenshot 2024-09-19 at 11 02 07 PM" src="https://github.com/user-attachments/assets/f8b1a562-7f91-4c42-96e1-9116b6387078">
 
 
-Figure 6 Project Editing Flow Chart: Shows the proccess of editing projects including changing names and tags
+Figure 7 Project Editing Flow Chart: Shows the proccess of editing projects including changing names and tags
 
 Test Plan
 
