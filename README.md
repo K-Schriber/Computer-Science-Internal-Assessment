@@ -111,13 +111,13 @@ Test Plan
 | 10      | Complete Login/Registration page (Design)                        | Create a functional login/registration page with HTML templates                               | Design       | 40 minutes    | Aug 21          | B         |
 | 11      | Produce flow diagrams including descriptions (Design)            | Create flow diagrams that explain code functions                                              | Design       | 2.5 hours     | Aug 22          | B         |
 | 12      | Develop photo upload functionality (Development)                 | Implement a feature where users can upload photos and store them in the database              | Development  | 1 hour        | Aug 23          | C         |
-| 13      | Add description prompt for photos (Development)                  | Ensure the system prompts users to add descriptions to their uploaded photos                  | Development  | 45 minutes    | Aug 24          | C         |
-| 14      | Implement metadata extraction for photos (Development)           | Automate extraction of photo metadata like timestamps during the upload process               | Development  | 1 hour        | Aug 25          | C         |
-| 15      | Create project management feature (Development)                  | Implement a feature that categorizes updates by house parts or project type                   | Development  | 2 hours       | Aug 26          | C         |
-| 16      | Implement CRUD operations for project components (Development)   | Add functionality to create, read, update, and delete tags, projects, and photos              | Development  | 3 hours       | Aug 27          | C         |
-| 17      | Expense tracking functionality (Development)                     | Implement a feature to track and categorize expenses for materials and tools                  | Development  | 2 hours       | Aug 28          | C         |
-| 18      | Develop search and filter functionality (Development)            | Create a search feature to find updates or materials by date, project, or keyword             | Development  | 1 hour        | Aug 29          | C         |
-| 19      | Build dashboard for project progress visualization (Development) | Create a dashboard to display construction progress, highlighting completed and ongoing tasks | Development  | 3 hours       | Aug 30          | C         |
+| 13      | Add description prompt for photos (Development)                  | Ensure the system prompts users to add descriptions to their uploaded photos                  | Development  | 45 minutes    | Aug 29          | C         |
+| 14      | Implement metadata extraction for photos (Development)           | Automate extraction of photo metadata like timestamps during the upload process               | Development  | 1 hour        | Sep 2         | C         |
+| 15      | Create project management feature (Development)                  | Implement a feature that categorizes updates by house parts or project type                   | Development  | 2 hours       | Sep 7          | C         |
+| 16      | Implement CRUD operations for project components (Development)   | Add functionality to create, read, update, and delete tags, projects, and photos              | Development  | 3 hours       | Sep 14          | C         |
+| 17      | Expense tracking functionality (Development)                     | Implement a feature to track and categorize expenses for materials and tools                  | Development  | 2 hours       | Sep 18          | C         |
+| 18      | Develop search and filter functionality (Development)            | Create a search feature to find updates or materials by date, project, or keyword             | Development  | 1 hour        | Sep 21          | C         |
+| 19      | Build dashboard for project progress visualization (Development) | Create a dashboard to display construction progress, highlighting completed and ongoing tasks | Development  | 3 hours       | Sep 21          | C         |
 
 
 
