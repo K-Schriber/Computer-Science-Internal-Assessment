@@ -37,6 +37,7 @@ I propose using Python over other programming languages, such as Node and Nest, 
 
 ## Design Overview 
 
+![Comp-36 2](https://github.com/user-attachments/assets/4511afb5-fe17-4f3c-9fec-177f7ea85976)
 
 
 
